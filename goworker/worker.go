@@ -7,7 +7,7 @@ import (
 
 // run=====
 // go build
-// goworker.exe -queues=hello
+// goworker.exe -queues=myqueue,myqueue2
 
 func main() {
 	fmt.Println("===========start=========")
